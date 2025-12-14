@@ -1,0 +1,17 @@
+langgraph==0.2.45
+langchain==0.3.7
+langchain-openai==0.2.8
+langchain-pinecone==0.2.0
+langchain-community==0.3.5
+langchain-text-splitters==0.3.0
+pinecone[grpc]>=5.4.1
+tavily-python==0.5.0
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
+sentence-transformers==2.3.1
+pypdf==4.0.1
+sqlalchemy==2.0.35
+psycopg[binary]==3.2.3
+asyncpg==0.29.0
+pydantic==2.8.0
